@@ -1,4 +1,5 @@
 #ifinder MAIN_H
 #defindar MAIN_H
 int_putchar (char c);
-#endif
+void print_alphabet(void);
+#endif 
