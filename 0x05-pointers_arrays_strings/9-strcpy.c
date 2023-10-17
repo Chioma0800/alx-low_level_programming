@@ -6,6 +6,7 @@
  * Return: string
  */
 char *_strcpy(char *dest, char *src)
+
 {
         int l = 0;
         int x = 0;
@@ -19,5 +20,6 @@ char *_strcpy(char *dest, char *src)
         }
         dest[l] = '\0';
         return (dest);
+
 }
 
